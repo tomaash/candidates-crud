@@ -1,4 +1,4 @@
-# sm-web-widget
+# sm-widget-works
 
 ```
 npm install

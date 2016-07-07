@@ -4,7 +4,7 @@
   "description": "Backend for viewing widget candidate videos",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tomaash/sm-web-widget.git"
+    "url": "https://github.com/tomaash/sm-widget-works.git"
   },
   "scripts": {
     "start": "webpack-dev-server --config webpack-dev-server.config.js --progress --inline",

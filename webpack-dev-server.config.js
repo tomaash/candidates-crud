@@ -44,7 +44,7 @@ var config = {
     new webpack.NoErrorsPlugin(),
     // Generate initial HTML
     new HtmlWebpackPlugin({
-      title: 'Web Widget',
+      title: 'Widget Works',
       template: 'src/templates/index.ejs'
     })
   ],
