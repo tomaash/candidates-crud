@@ -1,0 +1,16 @@
+{
+  "globalDependencies": {
+    "axios": "registry:dt/axios#0.9.1+20160629101425",
+    "core-decorators": "registry:dt/core-decorators#0.10.0+20160316155526",
+    "jasmine": "registry:dt/jasmine#2.2.0+20160621224255",
+    "react": "registry:dt/react#0.14.0+20160621225615",
+    "react-addons-test-utils": "registry:dt/react-addons-test-utils#0.14.0+20160427035638",
+    "react-bootstrap-validation": "github:tomaash/react-bootstrap-validation/typings/react-bootstrap-validation.d.ts",
+    "react-dom": "registry:dt/react-dom#0.14.0+20160412154040",
+    "require": "registry:dt/require#2.1.20+20160316155526"
+  },
+  "dependencies": {
+    "react-bootstrap": "github:react-bootstrap/react-bootstrap-typescript/index.d.ts",
+    "react-select": "registry:npm/react-select#1.0.0+20160616145831"
+  }
+}

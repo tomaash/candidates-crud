@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "allowJs": true,
+    "module": "commonjs",
+    "declaration": false,
+    "noImplicitAny": false,
+    "removeComments": true,
+    "experimentalDecorators": true,
+    "noLib": false,
+    "jsx": "react",
+    "outDir": "dist",
+    "noImplicitUseStrict": true
+  },
+  "exclude": [
+    "node_modules",
+    "static"
+  ]
+}

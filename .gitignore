@@ -1,0 +1,8 @@
+node_modules
+build
+/tmp
+*.DS_Store
+typings
+*.log
+coverage
+*.pem
