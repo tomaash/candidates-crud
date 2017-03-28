@@ -1,4 +1,4 @@
-# sm-widget-works
+# candidates-crud
 
 ```
 npm install
